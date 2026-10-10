@@ -1,2 +1,3 @@
-# ongredients-dashboard
-Ongredients business monitoring dashboard
+# Ongredients Dashboard
+
+Public business dashboard. Update index.html to publish a new snapshot.
